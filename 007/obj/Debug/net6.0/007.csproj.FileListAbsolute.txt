@@ -1,0 +1,15 @@
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\007\obj\Debug\net6.0\007.csproj.AssemblyReference.cache
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\007\obj\Debug\net6.0\007.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\007\obj\Debug\net6.0\007.AssemblyInfoInputs.cache
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\007\obj\Debug\net6.0\007.AssemblyInfo.cs
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\007\obj\Debug\net6.0\007.csproj.CoreCompileInputs.cache
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\007\bin\Debug\net6.0\007.exe
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\007\bin\Debug\net6.0\007.deps.json
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\007\bin\Debug\net6.0\007.runtimeconfig.json
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\007\bin\Debug\net6.0\007.dll
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\007\bin\Debug\net6.0\007.pdb
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\007\obj\Debug\net6.0\007.dll
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\007\obj\Debug\net6.0\refint\007.dll
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\007\obj\Debug\net6.0\007.pdb
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\007\obj\Debug\net6.0\007.genruntimeconfig.cache
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\007\obj\Debug\net6.0\ref\007.dll
