@@ -1,0 +1,15 @@
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\008\bin\Debug\net6.0\008.exe
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\008\bin\Debug\net6.0\008.deps.json
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\008\bin\Debug\net6.0\008.runtimeconfig.json
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\008\bin\Debug\net6.0\008.dll
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\008\bin\Debug\net6.0\008.pdb
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\008\obj\Debug\net6.0\008.csproj.AssemblyReference.cache
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\008\obj\Debug\net6.0\008.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\008\obj\Debug\net6.0\008.AssemblyInfoInputs.cache
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\008\obj\Debug\net6.0\008.AssemblyInfo.cs
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\008\obj\Debug\net6.0\008.csproj.CoreCompileInputs.cache
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\008\obj\Debug\net6.0\008.dll
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\008\obj\Debug\net6.0\refint\008.dll
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\008\obj\Debug\net6.0\008.pdb
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\008\obj\Debug\net6.0\008.genruntimeconfig.cache
+D:\WinUsers\kaspr88\Desktop\GB\SHARP\CSHARP\008\obj\Debug\net6.0\ref\008.dll
