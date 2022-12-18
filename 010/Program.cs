@@ -1,14 +1,16 @@
-﻿int a = Console.ReadLine();
-int b = Console.ReadLine();
-int a = int.Parse(userInput);
-int b = int.Parse(userInput);
-if (a = b * b)
+﻿Console.WriteLine("Введите первое число");
+String userInputOne = Console.ReadLine() ?? "";
+Console.WriteLine("Введите второе число");
+String userInputTwo = Console.ReadLine() ?? "";
+int a = int.Parse(userInputOne);
+int b = int.Parse(userInputTwo);
+if (a == b * b)
 {
     Console.WriteLine($"{a}квадрат{b}");
 }
-else if (b = b * b)
+else if (b == a * a)
 {
-    Console.WriteLine($"{a} не квадрат{b}");
+    Console.WriteLine($"{b} не квадрат{a}");
 }
 else
 {
